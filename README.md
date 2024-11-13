@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">Aviation enthusiast and a passionate programmer from the UK</h3>
+<h3 align="center">15 year old student and passionate programmer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenbok203&label=Profile%20views&color=0e75b6&style=flat" alt="aidenbok203" /> </p>
 
