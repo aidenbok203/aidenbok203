@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenbok203&label=Profile%20views&color=0e75b6&style=flat" alt="aidenbok203" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🔭 I’m currently working on [this](https://github.com/aidenbok203/Monopoly) as part of my A-level Non-Exam Assessment.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/aidenbok203)
 
