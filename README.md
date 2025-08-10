@@ -20,7 +20,7 @@
 
 <h3 align="left">Contact 📧</h3>
 <p align="left">
-  <a href="mailto:aidenbok203@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
+  <a href="mailto:aiden@aidenbok.uk"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
   <a href="https://discord.com/users/794565114744406036"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> </a>
 </p>
 
